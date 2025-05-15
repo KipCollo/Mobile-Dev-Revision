@@ -30,7 +30,7 @@ Kotlin is designed as a pragmatic language, which means that its main purpose is
 
 It is also important that Kotlin supports multiple programming paradigms, such as imperative programming, object-oriented programming, generic programming, functional programming, and more. Kotlin also offers tools like anonymous functions and higher-order functions, which allow developers to easily create abstractions over existing code.
 
-Last but not least, Kotlin is a tool-friendly language, which means all popular types of development tools, such as IntelliJ IDEA, Eclipse, and Android Studio, are compatible with it.
+Kotlin is a tool-friendly language, which means all popular types of development tools, such as IntelliJ IDEA, Eclipse, and Android Studio, are compatible with it.
 
 ## Basic terminology
 
